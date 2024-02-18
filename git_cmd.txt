@@ -1,0 +1,4 @@
+git init - initialise the repo
+git status -  
+git add - 
+git commit - 
